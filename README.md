@@ -10,5 +10,5 @@ Example of the shop
 Архитектура проекта представлена по ссылке: 
 
 # API
-Api представлена по следующей ссылке: 
+Api представлена по следующей ссылке: https://github.com/EugShel04/Iba_esh_04_shop/tree/main/API_new
 
